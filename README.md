@@ -1,4 +1,5 @@
 # SpeakPro Challenge
+---
 
 SpeakPro Challenge is a production-style MVP for AI-powered English reading and pronunciation assessment designed for corporate employee training.
 
